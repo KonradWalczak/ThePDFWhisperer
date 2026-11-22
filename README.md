@@ -18,10 +18,9 @@ Projekt został podzielony na logiczne warstwy, aby zapewnić skalowalność i c
 
 1. **Pobierz repozytorium:**
    ```bash
-   git clone https://github.com/TwojaNazwa/ThePDFWhisperer.git
+   git clone [https://github.com/TwojaNazwa/ThePDFWhisperer.git](https://github.com/KonradWalczak/ThePDFWhisperer)
    cd ThePDFWhisperer
    ```
-*(Zastąp link właściwym adresem repozytorium)*
 
 2. **Zainstaluj wymagane pakiety:**
    ```bash
