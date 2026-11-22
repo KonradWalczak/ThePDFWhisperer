@@ -9,7 +9,7 @@ from models import SchematOdwolania, SchematPelnomocnictwa, SchematPrzelewu
 app = FastAPI()
 
 # Inicjalizacja klienta Groq
-API_KEY = "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"
+API_KEY = "TUTAJ_WPISZ_KLUCZ_GROQ"
 client = Groq(api_key=API_KEY)
 
 def wyciagnij_tekst_z_pdf(file_bytes: bytes) -> str:
