@@ -18,7 +18,7 @@ Projekt został podzielony na logiczne warstwy, aby zapewnić skalowalność i c
 
 1. **Pobierz repozytorium:**
    ```bash
-   git clone [https://github.com/TwojaNazwa/ThePDFWhisperer.git](https://github.com/KonradWalczak/ThePDFWhisperer)
+   git clone https://github.com/KonradWalczak/ThePDFWhisperer.git
    cd ThePDFWhisperer
    ```
 
